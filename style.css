@@ -16,3 +16,9 @@ img{
     width: 40em;
     max-width: 90%;
 }
+
+body {
+    background-image: url("assets/images/ai2.gif");
+    background-repeat: no-repeat;
+    background-size: cover; /* or contain, depending on your preference */
+}
