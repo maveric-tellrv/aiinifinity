@@ -37,5 +37,5 @@ body {
     /* background-image: url("assets/images/ai2.gif"); */
     background-repeat: no-repeat;
     background-size: cover; /* or contain, depending on your preference */
-    background-color: azure;
+    background-color: rgb(171, 173, 173);
 }
