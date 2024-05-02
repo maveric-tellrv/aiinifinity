@@ -9,8 +9,16 @@ h1{
     padding-top: 4em;
 
 }
-ul{
-    text-align: center;
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    color: #333; /* Default text color */
+    font-size: 18px; /* Default font size */
+    margin-bottom: 10px;
 }
 section{
     text-align: center;
