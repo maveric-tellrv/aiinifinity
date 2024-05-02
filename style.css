@@ -9,6 +9,9 @@ h1{
     padding-top: 4em;
 
 }
+section{
+    text-align: center;
+}
 
 p{
     margin: 2em 0;
