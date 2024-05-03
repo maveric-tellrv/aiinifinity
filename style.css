@@ -50,6 +50,8 @@ body {
     width: 100px; /* Adjust as needed */
     border-radius: 50%; /* to make the image round */
     margin-right: 20px;
+    border-image: auto;
+    align-items: center;
 }
 
 .bio p {
