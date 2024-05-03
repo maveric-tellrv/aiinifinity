@@ -39,3 +39,20 @@ body {
     background-size: cover; /* or contain, depending on your preference */
     background-color: rgb(234, 247, 247);
 }
+/* CSS for bio section */
+.profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile img {
+    width: 100px; /* Adjust as needed */
+    border-radius: 50%; /* to make the image round */
+    margin-right: 20px;
+}
+
+.bio p {
+    font-size: 16px;
+    line-height: 1.5;
+}
